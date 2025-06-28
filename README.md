@@ -8,7 +8,7 @@ Fun_PyToolkit is an All-in-One Python program that contains 20 beginner to inter
 --Why Version 2?--
 In this initial version, you’ll find some basic but functional programs. If you enjoy using this toolkit, stay tuned for Version 2, where I plan to introduce more advanced and unique projects!
 
---Important--
+#Important
 If this shows an error or doesn't work plz open the main.py and remove that line or project_dir i added it because i was creating this on Pydroid 3 cuz i don't have any computer so i had to use that line but if it causes problems to you plz try removing it or ask ChatGPT 😃
 
 ---
